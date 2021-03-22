@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Sabflix/static/css/main.2d5ea042.chunk.css",
+    "main.js": "/Sabflix/static/js/main.2b8a044a.chunk.js",
+    "main.js.map": "/Sabflix/static/js/main.2b8a044a.chunk.js.map",
+    "runtime-main.js": "/Sabflix/static/js/runtime-main.ba279f11.js",
+    "runtime-main.js.map": "/Sabflix/static/js/runtime-main.ba279f11.js.map",
+    "static/js/2.e4fcfd99.chunk.js": "/Sabflix/static/js/2.e4fcfd99.chunk.js",
+    "static/js/2.e4fcfd99.chunk.js.map": "/Sabflix/static/js/2.e4fcfd99.chunk.js.map",
+    "index.html": "/Sabflix/index.html",
+    "precache-manifest.39f29c79564cbb4054aba691255205ef.js": "/Sabflix/precache-manifest.39f29c79564cbb4054aba691255205ef.js",
+    "service-worker.js": "/Sabflix/service-worker.js",
+    "static/css/main.2d5ea042.chunk.css.map": "/Sabflix/static/css/main.2d5ea042.chunk.css.map",
+    "static/js/2.e4fcfd99.chunk.js.LICENSE.txt": "/Sabflix/static/js/2.e4fcfd99.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Sabflix/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ba279f11.js",
+    "static/js/2.e4fcfd99.chunk.js",
+    "static/css/main.2d5ea042.chunk.css",
+    "static/js/main.2b8a044a.chunk.js"
+  ]
+}
